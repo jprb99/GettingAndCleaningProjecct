@@ -3,7 +3,6 @@ Final Project
 Getting and Cleaning Data Course on Coursera
 =============================================
 ---
-- Title: Codebook
 - Author: Juan Pablo Roberto Barbosa
 - Date: 20th January 2017
 ---
