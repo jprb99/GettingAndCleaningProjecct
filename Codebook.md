@@ -29,8 +29,8 @@ The experiment is described by the authors:
 
 ### Raw data files:
 The data were extracted from the website http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones, and consisted of the following files:
-
->- 'README.txt'
+>
+- 'README.txt'
 - 'features_info.txt': Shows information about the variables used on the feature vector.
 - 'features.txt': List of all features.
 - 'activity_labels.txt': Links the class labels with their activity name.
@@ -41,7 +41,7 @@ The data were extracted from the website http://archive.ics.uci.edu/ml/datasets/
 
 There were also files available for train and test data, described by Davide et. al (2013) as: 
 
->- 'train/subject_train.txt': Each row identifies the subject who performed the activity for each window sample. Its range is from 1 to 30. 
+- 'train/subject_train.txt': Each row identifies the subject who performed the activity for each window sample. Its range is from 1 to 30. 
 - 'train/Inertial Signals/total_acc_x_train.txt': The acceleration signal from the smartphone accelerometer X axis in standard gravity units 'g'. Every row shows a 128 element vector. The same description applies for the 'total_acc_x_train.txt' and 'total_acc_z_train.txt' files for the Y and Z axis. 
 - 'train/Inertial Signals/body_acc_x_train.txt': The body acceleration signal obtained by subtracting the gravity from the total acceleration. 
 - 'train/Inertial Signals/body_gyro_x_train.txt': The angular velocity vector measured by the gyroscope for each window sample. The units are radians/second.
@@ -81,7 +81,7 @@ Run the R script from [here](github)
 
 ##### The list of variables are described below, together with their measurement unit. To interpret them, they may contain different abbreviations, which are explained below:
 
->* time: denotes time measurement
+* time: denotes time measurement
 * feq: denotes frequency measurement
 * gyro: refers to a signal obtained from the gyroscope
 * acc: refers to a signal obtained from the accelerometer
