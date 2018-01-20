@@ -23,3 +23,5 @@ The script does the following actions:
 9. Outputs tidy dataset
 
 The resulting dataset is tidy: one observation per row (per each combination of subject and activity) and one variable per column.
+
+#### * For more info on the dataset, open codebook.md.
